@@ -1,0 +1,5 @@
+Model,Accuracy
+Logistic Regression,0.6022241844259361
+Naive Bayes,0.475526811922774
+Original SVM,0.6056845571916092
+Final Tuned SVM,0.6242273822876644
