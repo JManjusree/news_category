@@ -20,3 +20,5 @@ RUN_LOG_PATH = LOGS / "news_category_lab7_pipeline_run_log.json"
 RANDOM_STATE = 42
 TEST_SIZE = 0.15
 EXPECTED_CLASSES = 33
+
+# Lab 8: GitHub Actions CI trigger verification.
