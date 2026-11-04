@@ -123,3 +123,4 @@ jobs:
             logs/
           if-no-files-found: warn
           retention-days: 14
+# Lab 8: Workflow-file update trigger verification.
